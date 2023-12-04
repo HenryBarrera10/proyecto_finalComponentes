@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739635879901",
+    "project_id": "parkingfinal-a5607",
+    "storage_bucket": "parkingfinal-a5607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739635879901:android:941a99182c6c6e72692034",
+        "android_client_info": {
+          "package_name": "com.example.parkingfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxm3N87aWPmw7D9mzeNib_bby3FG_g0dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
